@@ -1,3 +1,3 @@
 # Machine-Learning-Models #
 
-## KNN ##
+We are creating the model to fit ***Iris dataset*** and calculate the accuracy of the model.
